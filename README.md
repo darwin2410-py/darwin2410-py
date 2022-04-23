@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 🌱 I’m currently learning Data Science
+
 How to reach me:
 <a href="https://www.linkedin.com/in/darwin-tan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darwin" height="30" width="40" /></a>
 
